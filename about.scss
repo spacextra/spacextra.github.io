@@ -1,0 +1,250 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700&display=swap");
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: "Lato", sans-serif;
+}
+
+
+@media only screen and (max-width: 600px) {
+    #hero {
+        #menu {
+            ul {
+                list-style-type: none;
+                margin: 0;
+                padding: 0;
+                // padding-right: 11vh;
+                width: auto;
+                height: auto;
+                overflow: hidden;
+                // vertical-align: middle;
+                // position: absolute;
+                display: flex;
+                justify-content: center;
+                flex-direction: row-reverse;
+                // float: right;
+                li {
+                    float: right;
+                    vertical-align: middle;
+                    a {
+                        text-decoration: none;
+                        color: white;
+                        display: block;
+                        text-align: center;
+                        padding: 14px 16px;
+                        // vertical-align: middle;
+                        
+                    }
+                    #fRight {
+                        margin-right: 11vw;
+                    }
+                    
+                }
+            }
+        }
+    }
+    #imgSection {
+        #flickr {
+            img {
+                width: 80%;
+                height: 80%;
+            }
+        }
+    }
+}
+
+@media only screen and (min-width: 601px) {
+    #hero {
+        #menu {
+            
+
+            ul {
+                list-style-type: none;
+                margin: 0;
+                padding: 0;
+                padding-right: 11vh;
+                width: auto;
+                height: auto;
+                overflow: hidden;
+                // vertical-align: middle;
+                // position: absolute;
+                display: block;
+                float: right;
+                li {
+                    float: right;
+                    vertical-align: middle;
+                    a {
+                        text-decoration: none;
+                        color: white;
+                        display: block;
+                        text-align: center;
+                        padding: 14px 16px;
+                        // vertical-align: middle;
+                        
+                    }
+                    #fRight {
+                        margin-right: 11vw;
+                    }
+                    
+                }
+            }
+        }
+    }
+    #imgSection {
+        #flickr {
+            img {
+                width: 30%;
+                height: 7%;
+            }
+        }
+    }
+}
+
+
+
+#hero {
+    // position: absolute;
+    height: 100vh;
+    width: 100vw;
+    background: url('https://live.staticflickr.com/65535/50906488116_5464d321fe_o_d.jpg') rgba(80, 80, 80, 0.35);
+    background-size: cover;
+    background-position: center;
+    background-blend-mode: multiply;
+
+    #menu:before {
+        filter: blur(8px);
+        -webkit-filter: blur(8px);
+    }
+    
+    #menu {
+        -webkit-animation: fadein 1s; /* Safari, Chrome and Opera > 12.1 */
+        -moz-animation: fadein 1s; /* Firefox < 16 */
+        -ms-animation: fadein 1s; /* Internet Explorer */
+        -o-animation: fadein 1s; /* Opera < 12.1 */
+        animation: fadein 1s;
+
+        margin-top: 1vh;
+        position: absolute;
+        color: white;
+        width: 100vw;
+        vertical-align: middle;
+        // filter: blur(8px);
+        // -webkit-filter: blur(8px);
+        // background: linear-gradient(rgba(255, 255, 255, 0.3), rgba(255, 255, 255, 0));
+        ul {
+            
+            
+            #title {
+                font-size: 1.5em;
+                font-weight: 300;
+                // margin-left: 11vw;
+                float: left;
+            }
+            #right {
+                // padding-right: 8vw;
+            }
+            .active {
+                text-decoration: underline;
+                text-decoration-thickness: 0.22vh;
+                text-underline-position: under;
+            }
+            .inactive {
+                color: white;
+                text-decoration: none;
+                
+                background-image: linear-gradient(currentColor, currentColor);
+                background-position: 0% 100%;
+                background-repeat: no-repeat;
+                background-size: 0% 2px;
+                transition: background-size .3s;
+            }
+            .inactive:hover, .inactive:focus {
+                background-size: 100% 0.22vh;
+            }
+        }
+    }
+
+    #appCS {
+        text-align: center;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -10%);
+        top: 37%;
+        color: white;
+        // height: 100%;
+        h1 {
+            -webkit-animation: fadein2 1.5s; /* Safari, Chrome and Opera > 12.1 */
+            -moz-animation: fadein2 1.5s; /* Firefox < 16 */
+            -ms-animation: fadein2 1.5s; /* Internet Explorer */
+            -o-animation: fadein2 1.5s; /* Opera < 12.1 */
+            animation: fadein2 1.5s;
+        }
+        p {
+            -webkit-animation: fadein3 2s; /* Safari, Chrome and Opera > 12.1 */
+            -moz-animation: fadein3 2s; /* Firefox < 16 */
+            -ms-animation: fadein3 2s; /* Internet Explorer */
+            -o-animation: fadein3 2s; /* Opera < 12.1 */
+            animation: fadein3 2s;
+        }
+        a {
+            text-decoration: none;
+            color: white;
+            -webkit-animation: fadein4 2.5s; /* Safari, Chrome and Opera > 12.1 */
+            -moz-animation: fadein4 2.5s; /* Firefox < 16 */
+            -ms-animation: fadein4 2.5s; /* Internet Explorer */
+            -o-animation: fadein4 2.5s; /* Opera < 12.1 */
+            animation: fadein4 2.5s;
+        }
+    }
+
+    
+}
+
+#imgSection {
+    position: absolute;
+    height: 100vh;
+    width: 100vw;
+    background: url('https://live.staticflickr.com/65535/50618463487_41642939a4_o_d.jpg') rgba(80, 80, 80, 0.25);
+    background-size: cover;
+    background-position: center;
+    background-blend-mode: multiply;
+
+    #appCS {
+        text-align: center;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -10%);
+        top: 37%;
+        color: white;
+        // height: 100%;
+        a {
+            text-decoration: none;
+            color: white;
+        }
+    }
+}
+
+// --- ANIMATIONS --- //
+
+@keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+@keyframes fadein2 {
+    0% { opacity: 0; }
+    50% { opacity: 0; }
+    to   { opacity: 1; }
+}
+@keyframes fadein3 {
+    0% { opacity: 0; }
+    60% { opacity: 0; }
+    to   { opacity: 1; }
+}
+@keyframes fadein4 {
+    0% { opacity: 0; }
+    70% { opacity: 0; }
+    to   { opacity: 1; }
+}

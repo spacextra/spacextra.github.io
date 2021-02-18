@@ -1,0 +1,464 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700&display=swap");
+body {
+  font-family: "Lato", sans-serif;
+  padding: 0;
+  margin: 0;
+}
+
+@media only screen and (max-width: 600px) {
+  #hero {
+    text-align: center;
+    position: relative;
+  }
+  #countdown {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -10%);
+            transform: translate(-50%, -10%);
+  }
+  #hero #menu ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: auto;
+    height: auto;
+    overflow: hidden;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: reverse;
+        -ms-flex-direction: row-reverse;
+            flex-direction: row-reverse;
+  }
+  #hero #menu ul li {
+    float: right;
+    vertical-align: middle;
+  }
+  #hero #menu ul li a {
+    text-decoration: none;
+    color: white;
+    display: block;
+    text-align: center;
+    padding: 14px 16px;
+  }
+  #hero #menu ul li #fRight {
+    margin-right: 11vw;
+  }
+}
+
+@media only screen and (min-width: 601px) {
+  #countdown {
+    left: 12%;
+    position: absolute;
+  }
+  #hero #menu ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    padding-right: 11vh;
+    width: auto;
+    height: auto;
+    overflow: hidden;
+    display: block;
+    float: right;
+  }
+  #hero #menu ul li {
+    float: right;
+    vertical-align: middle;
+  }
+  #hero #menu ul li a {
+    text-decoration: none;
+    color: white;
+    display: block;
+    text-align: center;
+    padding: 14px 16px;
+  }
+  #hero #menu ul li #fRight {
+    margin-right: 11vw;
+  }
+}
+
+#hero {
+  height: 100vh;
+  width: 100vw;
+  background: url("https://live.staticflickr.com/65535/50856551642_5190c59ec1_o_d.jpg") rgba(80, 80, 80, 0.2);
+  background-size: cover;
+  background-position: center;
+  background-blend-mode: multiply;
+}
+
+#hero #menu:before {
+  filter: blur(8px);
+  -webkit-filter: blur(8px);
+}
+
+#hero #menu {
+  -webkit-animation: fadein 1s;
+  /* Safari, Chrome and Opera > 12.1 */
+  /* Firefox < 16 */
+  /* Internet Explorer */
+  /* Opera < 12.1 */
+  animation: fadein 1s;
+  margin-top: 1vh;
+  position: absolute;
+  color: white;
+  width: 100vw;
+  vertical-align: middle;
+}
+
+#hero #menu ul #title {
+  font-size: 1.5em;
+  font-weight: 300;
+  float: left;
+}
+
+#hero #menu ul .active {
+  text-decoration: underline;
+  text-decoration-thickness: 0.22vh;
+  text-underline-position: under;
+}
+
+#hero #menu ul .inactive {
+  color: white;
+  text-decoration: none;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(currentColor), to(currentColor));
+  background-image: linear-gradient(currentColor, currentColor);
+  background-position: 0% 100%;
+  background-repeat: no-repeat;
+  background-size: 0% 2px;
+  -webkit-transition: background-size .3s;
+  transition: background-size .3s;
+}
+
+#hero #menu ul .inactive:hover, #hero #menu ul .inactive:focus {
+  background-size: 100% 0.22vh;
+}
+
+#hero #countdown {
+  top: 30%;
+  color: white;
+  height: 100%;
+}
+
+#hero #countdown #countdownTable {
+  -webkit-animation: fadein3 2s;
+  /* Safari, Chrome and Opera > 12.1 */
+  /* Firefox < 16 */
+  /* Internet Explorer */
+  /* Opera < 12.1 */
+  animation: fadein3 2s;
+  text-align: center;
+}
+
+#hero #countdown #countdownTable #timeValue {
+  font-size: 3em;
+}
+
+#hero #countdown #countdownTable #timeValue #colon {
+  padding-left: 1vw;
+  padding-right: 1vw;
+}
+
+#hero #countdown #countdownTable #labels {
+  font-size: 1em;
+}
+
+#hero #countdown #missName {
+  text-decoration: underline;
+  text-decoration-thickness: 0.15vh;
+  text-underline-position: under;
+  -webkit-animation: fadein2 1.5s;
+  /* Safari, Chrome and Opera > 12.1 */
+  /* Firefox < 16 */
+  /* Internet Explorer */
+  /* Opera < 12.1 */
+  animation: fadein2 1.5s;
+}
+
+#hero #countdown #scroll {
+  -webkit-animation: fadein4 2.5s;
+  /* Safari, Chrome and Opera > 12.1 */
+  /* Firefox < 16 */
+  /* Internet Explorer */
+  /* Opera < 12.1 */
+  animation: fadein4 2.5s;
+}
+
+#hero #countdown i {
+  margin-top: 0;
+  -webkit-animation-name: arrowBounce;
+          animation-name: arrowBounce;
+  -webkit-animation-duration: 4s;
+          animation-duration: 4s;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  color: white;
+}
+
+#hero #attribution {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  color: white;
+  font-weight: 300;
+  background: rgba(119, 119, 119, 0.75);
+  padding: 1vh;
+  border-radius: 1vh 0 0 1vh;
+}
+
+#tableSection {
+  height: 100vh;
+  left: 10%;
+  background-image: url("https://live.staticflickr.com/65535/50645580736_44af27257f_o_d.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
+#tableSection #table {
+  position: absolute;
+  display: block;
+  width: 80vw;
+  height: 80vh !important;
+  padding-top: 10vh;
+  left: 10vw;
+  overflow: hidden;
+  border-radius: 6px;
+}
+
+#tableSection #upcLaunch {
+  color: white;
+  font-weight: 400;
+}
+
+#tableSection table {
+  display: block;
+  border-collapse: separate;
+  border-spacing: 0;
+  width: 80vw;
+  height: 80vh !important;
+  color: #393939;
+  max-height: 80vh;
+  overflow-y: scroll;
+  /* top-left border-radius */
+  /* top-right border-radius */
+  /* bottom-left border-radius */
+  /* bottom-right border-radius */
+}
+
+#tableSection table tr th,
+#tableSection table tr td {
+  padding: 0.7vh;
+}
+
+#tableSection table tr:nth-child(even) {
+  background: rgba(173, 181, 189, 0.75);
+}
+
+#tableSection table tr:nth-child(odd) {
+  background: rgba(222, 226, 230, 0.75);
+}
+
+#tableSection table tr th {
+  background: rgba(33, 37, 41, 0.95);
+  text-align: left;
+  height: 2vh;
+  color: rgba(255, 255, 255, 0.75);
+}
+
+#tableSection table tr:first-child th:first-child {
+  border-top-left-radius: 6px;
+}
+
+#tableSection table tr:first-child th:last-child {
+  border-top-right-radius: 6px;
+}
+
+#tableSection table tr:last-child td:first-child {
+  border-bottom-left-radius: 6px;
+}
+
+#tableSection table tr:last-child td:last-child {
+  border-bottom-right-radius: 6px;
+}
+
+#tableSection table thead tr th {
+  position: -webkit-sticky;
+  position: sticky;
+  z-index: 100;
+  top: 0;
+}
+
+#aboutSection {
+  height: 100vh;
+  width: 100vw;
+  background: url("https://live.staticflickr.com/65535/50428228397_6151927733_o_d.jpg") rgba(80, 80, 80, 0.5);
+  background-size: cover;
+  background-position: center;
+  background-blend-mode: multiply;
+  position: absolute;
+  word-break: break-all;
+}
+
+#aboutSection #tables {
+  width: auto;
+  height: auto;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+}
+
+#aboutSection #tables .abtText {
+  table-layout: fixed;
+  width: 80%;
+  height: 80;
+  margin-left: 10%;
+  color: white;
+  word-break: break-all;
+  float: left;
+}
+
+#aboutSection #tables #tb2 a {
+  text-decoration: none;
+  color: white;
+  font-weight: 700;
+}
+
+#aboutSection #tables #tb1 {
+  padding-bottom: 5%;
+}
+
+#aboutSection #tables #tb1 a {
+  text-decoration: none;
+  color: white;
+  font-weight: 700;
+}
+
+@-webkit-keyframes arrowBounce {
+  0% {
+    color: white;
+    margin-top: 0;
+  }
+  65% {
+    margin-top: 5vh;
+  }
+  75% {
+    color: transparent;
+  }
+  76% {
+    margin-top: 0;
+  }
+}
+
+@keyframes arrowBounce {
+  0% {
+    color: white;
+    margin-top: 0;
+  }
+  65% {
+    margin-top: 5vh;
+  }
+  75% {
+    color: transparent;
+  }
+  76% {
+    margin-top: 0;
+  }
+}
+
+@-webkit-keyframes fadein {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes fadein {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@-webkit-keyframes fadein2 {
+  0% {
+    opacity: 0;
+  }
+  50% {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes fadein2 {
+  0% {
+    opacity: 0;
+  }
+  50% {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@-webkit-keyframes fadein3 {
+  0% {
+    opacity: 0;
+  }
+  60% {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes fadein3 {
+  0% {
+    opacity: 0;
+  }
+  60% {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@-webkit-keyframes fadein4 {
+  0% {
+    opacity: 0;
+  }
+  70% {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes fadein4 {
+  0% {
+    opacity: 0;
+  }
+  70% {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+/*# sourceMappingURL=index.css.map */
