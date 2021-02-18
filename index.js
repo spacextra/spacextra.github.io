@@ -72,6 +72,14 @@ function getData() {
     }
 
     request.send()
+    // var row = app.insertRow(-1);
+    // var cell1 = row.insertCell(0);
+    // var cell2 = row.insertCell(1);
+    // var cell3 = row.insertCell(2);
+
+    // cell3.innerText = ` `
+    // cell1.innerText = ` `
+    // cell2.innerText = ` `
 }
 
 var scrollDiv = document.getElementById('scroll');

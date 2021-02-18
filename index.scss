@@ -246,8 +246,8 @@ body {
         position: absolute;
         display: block;
         width: 80vw;
-        height: 80vh !important;
-        padding-top: 10vh;
+        height: 80vh;
+        padding-top: 12vh;
         // max-height: 80vh;
         left: 10vw;
         overflow: hidden;
@@ -256,11 +256,13 @@ body {
     }
 
     #upcLaunch {
-        // position: absolute;
+        position: absolute;
         color: white;
-        // left: 10%;
+        left: 10%;
         // top: 2vh;
         font-weight: 400;
+        font-size: 4vh;
+        padding-top: 2vh;
     }
 
     table {
