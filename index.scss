@@ -142,9 +142,9 @@ body {
                 // margin-left: 11vw;
                 float: left;
             }
-            #right {
-                // padding-right: 8vw;
-            }
+            // #right {
+            //     // padding-right: 8vw;
+            // }
             .active {
                 text-decoration: underline;
                 text-decoration-thickness: 0.22vh;
@@ -263,6 +263,17 @@ body {
         font-weight: 400;
         font-size: 4vh;
         padding-top: 2vh;
+    }
+    #prevLaunch {
+        position: absolute;
+        color: white;
+        left: 10%;
+        // top: 2vh;
+        font-weight: 400;
+        font-size: 2vh;
+        padding-top: 80vh;
+        font-weight: 700;
+        text-decoration: none;
     }
 
     table {

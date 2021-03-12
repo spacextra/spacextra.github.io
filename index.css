@@ -239,6 +239,17 @@ body {
   padding-top: 2vh;
 }
 
+#tableSection #prevLaunch {
+  position: absolute;
+  color: white;
+  left: 10%;
+  font-weight: 400;
+  font-size: 2vh;
+  padding-top: 80vh;
+  font-weight: 700;
+  text-decoration: none;
+}
+
 #tableSection table {
   display: block;
   border-collapse: separate;
