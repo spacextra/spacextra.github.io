@@ -94,15 +94,16 @@ function getCountdownTime() {
     var request = new XMLHttpRequest()
 
     // Open a new connection, using the GET request on the URL endpoint
-    request.open('GET', 'https://api.spacexdata.com/v4/launches/next', true)
+    request.open('GET', 'https://api.spacexdata.com/v4/launches/upcoming', true)
 
     request.onload = function () {
         var data = JSON.parse(this.response)
 
-        launchDate = new Date(data.date_utc).getTime();
-        launchName = data.name;
+        launchDate = new Date(data[0].date_utc).getTime();
+        launchName = data[0].name;
 
-        console.log(launchDate);
+        console.log('////////' + launchDate.toString());
+        console.log('///////' + launchName)
     }
 
     // Send request
@@ -114,8 +115,8 @@ function countdown() {
     var now = new Date().getTime();
 
     // Find the distance between now and the count down date
-    var distance = launchDate - now;
-    console.log(now);
+    var distance = (launchDate - now);
+    console.log(distance);
 
     // Time calculations for days, hours, minutes and seconds
     var days = Math.floor(distance / (1000 * 60 * 60 * 24));
