@@ -238,7 +238,9 @@ body {
 #tableSection {
     height: 100vh;
     left: 10%;
-    background-image: url('https://live.staticflickr.com/65535/50645580736_44af27257f_o_d.jpg');
+    // background-image: url('https://live.staticflickr.com/65535/50645580736_44af27257f_o_d.jpg');
+    background-image: url('https://live.staticflickr.com/65535/51158778650_9b8d555c1e_o_d.jpg'), linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4));
+    background-blend-mode: overlay;
     background-size: cover;
     background-position: center;
     
@@ -297,10 +299,10 @@ body {
             // background: white;
         }
         tr:nth-child(even) {
-            background: rgba($color: #ADB5BD, $alpha: 0.75);
+            background: rgba($color: #ADB5BD, $alpha: 0.9);
         }
         tr:nth-child(odd) {
-            background: rgba($color: #DEE2E6, $alpha: 0.75);
+            background: rgba($color: #DEE2E6, $alpha: 0.9);
         }
         tr th {
             background: rgba($color: #212529, $alpha: 0.95);

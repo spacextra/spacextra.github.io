@@ -154,6 +154,11 @@ body {
   animation: fadein3 2s;
 }
 
+#hero #appCS a {
+  -webkit-animation: fadein4 2.5s;
+          animation: fadein4 2.5s;
+}
+
 @-webkit-keyframes fadein {
   from {
     opacity: 0;
@@ -213,6 +218,30 @@ body {
     opacity: 0;
   }
   60% {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@-webkit-keyframes fadein4 {
+  0% {
+    opacity: 0;
+  }
+  70% {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes fadein4 {
+  0% {
+    opacity: 0;
+  }
+  70% {
     opacity: 0;
   }
   to {

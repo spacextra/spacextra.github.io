@@ -172,6 +172,9 @@ body {
             -o-animation: fadein3 2s; /* Opera < 12.1 */
             animation: fadein3 2s;
         }
+        a {
+            animation: fadein4 2.5s;
+        }
     }
 }
 
@@ -189,5 +192,10 @@ body {
 @keyframes fadein3 {
     0% { opacity: 0; }
     60% { opacity: 0; }
+    to   { opacity: 1; }
+}
+@keyframes fadein4 {
+    0% { opacity: 0; }
+    70% { opacity: 0; }
     to   { opacity: 1; }
 }

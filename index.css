@@ -214,7 +214,9 @@ body {
 #tableSection {
   height: 100vh;
   left: 10%;
-  background-image: url("https://live.staticflickr.com/65535/50645580736_44af27257f_o_d.jpg");
+  background-image: url("https://live.staticflickr.com/65535/51158778650_9b8d555c1e_o_d.jpg"), -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.4)), to(rgba(0, 0, 0, 0.4)));
+  background-image: url("https://live.staticflickr.com/65535/51158778650_9b8d555c1e_o_d.jpg"), linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4));
+  background-blend-mode: overlay;
   background-size: cover;
   background-position: center;
 }
@@ -271,11 +273,11 @@ body {
 }
 
 #tableSection table tr:nth-child(even) {
-  background: rgba(173, 181, 189, 0.75);
+  background: rgba(173, 181, 189, 0.9);
 }
 
 #tableSection table tr:nth-child(odd) {
-  background: rgba(222, 226, 230, 0.75);
+  background: rgba(222, 226, 230, 0.9);
 }
 
 #tableSection table tr th {
