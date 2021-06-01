@@ -2,102 +2,102 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:SpaceX launches the second of two next generation satellites for SiriusXM from SLC-40\, Cape Canaveral Space Force Station. The spacecraft will be delivered into a sub-synchronous geostationary transfer orbit and will replace XM-4 in geostationary orbit. The booster for this mission will land on an ASDS.
-DTEND:20210606T045600Z
-DTSTART:20210606T042600Z
-SUMMARY:SXM-8
-UID:be5416a3-5f6b-4882-bf19-dcb7257cb7ea@be54.org
+DTEND:20210818T003000Z
+DTSTART:20210818T000000Z
+SUMMARY:CRS-23
+UID:d0b16d2e-124d-44e6-bae7-4c0298a658ef@d0b1.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20210701T003000Z
 DTSTART:20210701T000000Z
 SUMMARY:Starlink-30 (v1.0)
-UID:81a7579a-fe48-4750-b3bf-4544b90b989a@81a7.org
+UID:cc83e4bd-00e9-4e2d-ba0f-01cbf0d7adb4@cc83.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20211001T003000Z
-DTSTART:20211001T000000Z
-SUMMARY:SARah 1
-UID:e62cf49c-cb55-4f7d-b8dc-b67c08530489@e62c.org
+DESCRIPTION:SpaceX launches the second of two next generation satellites for SiriusXM from SLC-40\, Cape Canaveral Space Force Station. The spacecraft will be delivered into a sub-synchronous geostationary transfer orbit and will replace XM-4 in geostationary orbit. The booster for this mission will land on an ASDS.
+DTEND:20210606T045600Z
+DTSTART:20210606T042600Z
+SUMMARY:SXM-8
+UID:8a6a80b9-d976-4bb8-a75f-71ad035ea544@8a6a.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20211001T003000Z
-DTSTART:20211001T000000Z
-SUMMARY:Turksat 5B
-UID:e4e6d694-25cf-4abf-b6fd-fa9858186f02@e4e6.org
+DTEND:20210701T003000Z
+DTSTART:20210701T000000Z
+SUMMARY:Starlink-29 (v1.0)
+UID:0f4b69df-53ab-4079-8d77-58c5a4acc870@0f4b.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20211001T003000Z
 DTSTART:20211001T000000Z
 SUMMARY:NROL-85
-UID:3c0661da-b305-43a5-8178-15a1c349d175@3c06.org
+UID:8712186e-b998-4681-988d-55237f334b97@8712.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20211123T003000Z
-DTSTART:20211123T000000Z
-SUMMARY:DART
-UID:d7bdd27f-b446-4c9e-b206-a4cd93d69908@d7bd.org
+DTEND:20211001T003000Z
+DTSTART:20211001T000000Z
+SUMMARY:USSF-44
+UID:31f3bab7-d271-4ebf-89d2-597d2f5a7f0b@31f3.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20210601T143000Z
-DTSTART:20210601T140000Z
-SUMMARY:Transporter-2
-UID:dc37e1ba-24c2-4b02-8c91-d04d4ccc590f@dc37.org
+DTEND:20220101T003000Z
+DTSTART:20220101T000000Z
+SUMMARY:NROL-87
+UID:bbf0d0e9-b340-40ee-b4b7-53b0c3c57420@bbf0.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SpaceX's 22nd ISS resupply mission on behalf of NASA\, this mission sends essential supplies to the International Space Station using the cargo variant of SpaceX's Dragon 2 spacecraft. The external payload for this mission is the first pair of ISS Roll Out Solar Arrays. Falcon 9 and Dragon launch from LC-39A\, Kennedy Space Center and the booster is expected to land on an ASDS. The mission will be complete with splashdown and recovery of the capsule and down cargo.
 DTEND:20210603T175900Z
 DTSTART:20210603T172900Z
 SUMMARY:CRS-22
-UID:e87e55f1-2bae-4367-bf6c-4d0be24d39ed@e87e.org
+UID:d2f817c4-1561-4919-a820-f98de072b8c1@d2f8.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20210901T003000Z
-DTSTART:20210901T000000Z
-SUMMARY:WorldView Legion 1-2
-UID:d5a5f3d4-9e67-45bd-899f-46bf6d6cd22a@d5a5.org
+DTEND:20211001T003000Z
+DTSTART:20211001T000000Z
+SUMMARY:Turksat 5B
+UID:fde5068e-041f-4d14-bf59-983ae74434e3@fde5.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20220101T003000Z
-DTSTART:20220101T000000Z
-SUMMARY:NROL-87
-UID:da6a3751-740e-4946-8521-987b2434e13a@da6a.org
+DTEND:20211123T003000Z
+DTSTART:20211123T000000Z
+SUMMARY:DART
+UID:e1bab595-eda5-4686-85b6-62a7ed36fd6c@e1ba.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20210701T003000Z
-DTSTART:20210701T000000Z
-SUMMARY:Starlink-29 (v1.0)
-UID:f685ed44-e958-4f98-bdd1-b2bae7171d29@f685.org
+DTEND:20211023T003000Z
+DTSTART:20211023T000000Z
+SUMMARY:Crew-3
+UID:e80f4b1a-d3b2-4d0b-b653-2e5d99f46c32@e80f.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20210617T223000Z
+DTSTART:20210617T220000Z
+SUMMARY:GPS III SV05
+UID:b064e509-fe25-444a-a738-baf597601d07@b064.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20210601T143000Z
+DTSTART:20210601T140000Z
+SUMMARY:Transporter-2
+UID:d6677896-8948-43f4-8bfc-66e9dbdd57b5@d667.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20211001T003000Z
+DTSTART:20211001T000000Z
+SUMMARY:SARah 1
+UID:b511c8fd-fc03-4f48-9acb-986d7a357d73@b511.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Inspiration4 is the world’s first all-civilian mission to space. The mission will be commanded by Jared Isaacman\, the 37-year-old founder and Chief Executive Officer of Shift4 Payments and an accomplished pilot and adventurer. Inspiration4 will leave Earth from Kennedy Space Center’s historic Launch Complex 39A\, the embarkation point for Apollo and Space Shuttle missions\, and travel across a low earth orbit on a multi-day journey that will continually eclipse more than 90% of the earth’s population. Named in recognition of the four-person crew that will raise awareness and funds for St. Jude Children’s Research Hospital\, this milestone represents a new era for human spaceflight and exploration.
 DTEND:20210915T003000Z
 DTSTART:20210915T000000Z
 SUMMARY:Inspiration4
-UID:c2b9133e-47f0-46ee-b8ce-61427e28ddd8@c2b9.org
+UID:fb1f6ea6-c5da-4fa3-bad1-5c9488917ee7@fb1f.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20210617T223000Z
-DTSTART:20210617T220000Z
-SUMMARY:GPS III SV05
-UID:3eb745eb-a6b4-4ee9-83e4-3283c121886a@3eb7.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20210818T003000Z
-DTSTART:20210818T000000Z
-SUMMARY:CRS-23
-UID:dae5f511-517d-4b0c-9d78-6088ca99de60@dae5.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20211001T003000Z
-DTSTART:20211001T000000Z
-SUMMARY:USSF-44
-UID:ea2b17a9-a80c-4d98-ad1e-a11e065c9c89@ea2b.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20211023T003000Z
-DTSTART:20211023T000000Z
-SUMMARY:Crew-3
-UID:df49ea30-6513-4502-97fb-186d4651ad8b@df49.org
+DTEND:20210901T003000Z
+DTSTART:20210901T000000Z
+SUMMARY:WorldView Legion 1-2
+UID:480cf47e-797a-4858-9026-aaa89fb745bd@480c.org
 END:VEVENT
 END:VCALENDAR
