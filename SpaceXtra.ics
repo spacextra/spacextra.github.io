@@ -2,102 +2,102 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:SpaceX launches the second of two next generation satellites for SiriusXM from SLC-40\, Cape Canaveral Space Force Station. The spacecraft will be delivered into a sub-synchronous geostationary transfer orbit and will replace XM-4 in geostationary orbit. The booster for this mission will land on an ASDS.
+DTEND:20210606T045600Z
+DTSTART:20210606T042600Z
+SUMMARY:SXM-8
+UID:be5416a3-5f6b-4882-bf19-dcb7257cb7ea@be54.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20210701T003000Z
+DTSTART:20210701T000000Z
+SUMMARY:Starlink-30 (v1.0)
+UID:81a7579a-fe48-4750-b3bf-4544b90b989a@81a7.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20211001T003000Z
+DTSTART:20211001T000000Z
+SUMMARY:SARah 1
+UID:e62cf49c-cb55-4f7d-b8dc-b67c08530489@e62c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20211001T003000Z
+DTSTART:20211001T000000Z
+SUMMARY:Turksat 5B
+UID:e4e6d694-25cf-4abf-b6fd-fa9858186f02@e4e6.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20211001T003000Z
+DTSTART:20211001T000000Z
+SUMMARY:NROL-85
+UID:3c0661da-b305-43a5-8178-15a1c349d175@3c06.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20211123T003000Z
+DTSTART:20211123T000000Z
+SUMMARY:DART
+UID:d7bdd27f-b446-4c9e-b206-a4cd93d69908@d7bd.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20210601T143000Z
+DTSTART:20210601T140000Z
+SUMMARY:Transporter-2
+UID:dc37e1ba-24c2-4b02-8c91-d04d4ccc590f@dc37.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:SpaceX's 22nd ISS resupply mission on behalf of NASA\, this mission sends essential supplies to the International Space Station using the cargo variant of SpaceX's Dragon 2 spacecraft. The external payload for this mission is the first pair of ISS Roll Out Solar Arrays. Falcon 9 and Dragon launch from LC-39A\, Kennedy Space Center and the booster is expected to land on an ASDS. The mission will be complete with splashdown and recovery of the capsule and down cargo.
 DTEND:20210603T175900Z
 DTSTART:20210603T172900Z
 SUMMARY:CRS-22
-UID:2c4fd299-1fc5-4fd8-9f9d-01f857e5d3fd@2c4f.org
+UID:e87e55f1-2bae-4367-bf6c-4d0be24d39ed@e87e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20210901T003000Z
+DTSTART:20210901T000000Z
+SUMMARY:WorldView Legion 1-2
+UID:d5a5f3d4-9e67-45bd-899f-46bf6d6cd22a@d5a5.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20220101T003000Z
 DTSTART:20220101T000000Z
 SUMMARY:NROL-87
-UID:1649f3e3-dacb-4821-9441-92d6d74b59d8@1649.org
+UID:da6a3751-740e-4946-8521-987b2434e13a@da6a.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:SpaceX launches the second of two next generation satellites for SiriusXM from SLC-40\, Cape Canaveral Space Force Station. The spacecraft will be delivered into a sub-synchronous geostationary transfer orbit and will replace XM-4 in geostationary orbit. The booster for this mission will land on an ASDS.
-DTEND:20210606T045600Z
-DTSTART:20210606T042600Z
-SUMMARY:SXM-8
-UID:1c18a846-23f0-4371-989a-030586ec48b7@1c18.org
+DTEND:20210701T003000Z
+DTSTART:20210701T000000Z
+SUMMARY:Starlink-29 (v1.0)
+UID:f685ed44-e958-4f98-bdd1-b2bae7171d29@f685.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Inspiration4 is the world’s first all-civilian mission to space. The mission will be commanded by Jared Isaacman\, the 37-year-old founder and Chief Executive Officer of Shift4 Payments and an accomplished pilot and adventurer. Inspiration4 will leave Earth from Kennedy Space Center’s historic Launch Complex 39A\, the embarkation point for Apollo and Space Shuttle missions\, and travel across a low earth orbit on a multi-day journey that will continually eclipse more than 90% of the earth’s population. Named in recognition of the four-person crew that will raise awareness and funds for St. Jude Children’s Research Hospital\, this milestone represents a new era for human spaceflight and exploration.
 DTEND:20210915T003000Z
 DTSTART:20210915T000000Z
 SUMMARY:Inspiration4
-UID:10020960-ae0f-4112-a44c-d0215a568e41@1002.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20210901T003000Z
-DTSTART:20210901T000000Z
-SUMMARY:WorldView Legion 1-2
-UID:9091d5f4-ed21-48dc-be1f-6f41a51df20c@9091.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20210701T003000Z
-DTSTART:20210701T000000Z
-SUMMARY:Starlink-30 (v1.0)
-UID:c25a68bb-d461-4569-adb6-0309c8316313@c25a.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20211023T003000Z
-DTSTART:20211023T000000Z
-SUMMARY:Crew-3
-UID:978112ab-fd33-4268-b4a9-eeefc4ca9238@9781.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20211123T003000Z
-DTSTART:20211123T000000Z
-SUMMARY:DART
-UID:cfc3b9d1-18ef-4ea9-aece-26b686c58240@cfc3.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20211001T003000Z
-DTSTART:20211001T000000Z
-SUMMARY:Turksat 5B
-UID:6742efb5-71b9-4b40-bdaa-b33a68d269d2@6742.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20210601T143000Z
-DTSTART:20210601T140000Z
-SUMMARY:Transporter-2
-UID:8f3fade3-0665-4e4c-98b2-6ae5a65c69a5@8f3f.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20210818T003000Z
-DTSTART:20210818T000000Z
-SUMMARY:CRS-23
-UID:4c15647b-7ef4-46a9-9623-b48511405b23@4c15.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20211001T003000Z
-DTSTART:20211001T000000Z
-SUMMARY:SARah 1
-UID:b59bfabd-6dd2-4117-a09a-a6c4297d0edc@b59b.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20211001T003000Z
-DTSTART:20211001T000000Z
-SUMMARY:USSF-44
-UID:816aa0d9-fc68-4537-bf03-1a4fada52e29@816a.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20210701T003000Z
-DTSTART:20210701T000000Z
-SUMMARY:Starlink-29 (v1.0)
-UID:bd52fe33-8d9e-4b4e-a2c2-b556688d495f@bd52.org
+UID:c2b9133e-47f0-46ee-b8ce-61427e28ddd8@c2b9.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20210617T223000Z
 DTSTART:20210617T220000Z
 SUMMARY:GPS III SV05
-UID:5943fdbf-6e15-4344-a2af-0f94fb3b0001@5943.org
+UID:3eb745eb-a6b4-4ee9-83e4-3283c121886a@3eb7.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20210818T003000Z
+DTSTART:20210818T000000Z
+SUMMARY:CRS-23
+UID:dae5f511-517d-4b0c-9d78-6088ca99de60@dae5.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20211001T003000Z
 DTSTART:20211001T000000Z
-SUMMARY:NROL-85
-UID:40aa27be-10d5-49bd-87cc-3c09392c888f@40aa.org
+SUMMARY:USSF-44
+UID:ea2b17a9-a80c-4d98-ad1e-a11e065c9c89@ea2b.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20211023T003000Z
+DTSTART:20211023T000000Z
+SUMMARY:Crew-3
+UID:df49ea30-6513-4502-97fb-186d4651ad8b@df49.org
 END:VEVENT
 END:VCALENDAR
