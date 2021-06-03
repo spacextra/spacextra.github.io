@@ -2,102 +2,95 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTEND:20210818T003000Z
-DTSTART:20210818T000000Z
-SUMMARY:CRS-23
-UID:98057b91-c224-4458-85eb-d9cfdb3ccef5@9805.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20211001T003000Z
-DTSTART:20211001T000000Z
-SUMMARY:SARah 1
-UID:a188e613-55dd-4170-929e-bb16f2cf17cd@a188.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20211001T003000Z
-DTSTART:20211001T000000Z
-SUMMARY:Turksat 5B
-UID:62819dfc-2728-43cf-a874-444de65396ca@6281.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SpaceX's 22nd ISS resupply mission on behalf of NASA\, this mission sends essential supplies to the International Space Station using the cargo variant of SpaceX's Dragon 2 spacecraft. The external payload for this mission is the first pair of ISS Roll Out Solar Arrays. Falcon 9 and Dragon launch from LC-39A\, Kennedy Space Center and the booster is expected to land on an ASDS. The mission will be complete with splashdown and recovery of the capsule and down cargo.
-DTEND:20210603T175900Z
-DTSTART:20210603T172900Z
-SUMMARY:CRS-22 & IROSA
-UID:cf2c2f83-8482-414b-99f1-68c359fbd219@cf2c.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20210901T003000Z
-DTSTART:20210901T000000Z
-SUMMARY:WorldView Legion 1-2
-UID:65edc4bf-978c-448f-9765-1f1c22b39ba7@65ed.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20220101T003000Z
-DTSTART:20220101T000000Z
-SUMMARY:NROL-87
-UID:14140fd4-8717-4601-ae84-643bb0aedd65@1414.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20211001T003000Z
-DTSTART:20211001T000000Z
-SUMMARY:NROL-85
-UID:2a01bb66-5ed6-42c0-bed0-a56312db81b6@2a01.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20210617T223000Z
-DTSTART:20210617T220000Z
-SUMMARY:GPS III SV05
-UID:ff5adc1e-de09-4885-a2c1-3524c308bf29@ff5a.org
+DTEND:20210701T003000Z
+DTSTART:20210701T000000Z
+SUMMARY:Starlink-30 (v1.0)
+UID:4a478746-d2bb-4ee7-80d2-f1d14b0a513a@4a47.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20210624T143000Z
 DTSTART:20210624T140000Z
 SUMMARY:Transporter-2
-UID:1a13919c-4ed8-4ba6-b0ff-c48e58907fcf@1a13.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20210701T003000Z
-DTSTART:20210701T000000Z
-SUMMARY:Starlink-29 (v1.0)
-UID:01c52277-de5f-4d8e-a505-8f41bd4ba46a@01c5.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20211001T003000Z
-DTSTART:20211001T000000Z
-SUMMARY:USSF-44
-UID:022aec8f-dff5-4b46-9055-19e26f2bb7e8@022a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Inspiration4 is the world’s first all-civilian mission to space. The mission will be commanded by Jared Isaacman\, the 37-year-old founder and Chief Executive Officer of Shift4 Payments and an accomplished pilot and adventurer. Inspiration4 will leave Earth from Kennedy Space Center’s historic Launch Complex 39A\, the embarkation point for Apollo and Space Shuttle missions\, and travel across a low earth orbit on a multi-day journey that will continually eclipse more than 90% of the earth’s population. Named in recognition of the four-person crew that will raise awareness and funds for St. Jude Children’s Research Hospital\, this milestone represents a new era for human spaceflight and exploration.
-DTEND:20210915T003000Z
-DTSTART:20210915T000000Z
-SUMMARY:Inspiration4
-UID:5de2bee4-9082-41d4-b612-75774bd9560a@5de2.org
+UID:980d7375-d8e1-4587-b702-3e10bcfe8554@980d.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20211023T003000Z
 DTSTART:20211023T000000Z
 SUMMARY:Crew-3
-UID:891acbf6-60c0-4880-ba1d-c5dc91e17739@891a.org
+UID:41e9a898-2abf-41d7-95f2-795a0b4652eb@41e9.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20211123T003000Z
 DTSTART:20211123T000000Z
 SUMMARY:DART
-UID:bdc8d493-8f9c-447a-ab96-8d8cc6e7c585@bdc8.org
+UID:7536cf63-dd17-44b2-95ea-9ad35f771e60@7536.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20210901T003000Z
+DTSTART:20210901T000000Z
+SUMMARY:WorldView Legion 1-2
+UID:f04e006d-19ac-4eb9-ad7c-f26db676da8a@f04e.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20210701T003000Z
 DTSTART:20210701T000000Z
-SUMMARY:Starlink-30 (v1.0)
-UID:8e60ccd5-5f07-4826-966e-6adcd86f021e@8e60.org
+SUMMARY:Starlink-29 (v1.0)
+UID:55e188d0-2276-42f6-916a-e58270f8b2be@55e1.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20211001T003000Z
+DTSTART:20211001T000000Z
+SUMMARY:SARah 1
+UID:797c9cbb-6a36-4689-bc23-06a1cce90ed0@797c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20211001T003000Z
+DTSTART:20211001T000000Z
+SUMMARY:Turksat 5B
+UID:42cced94-7567-4e28-9a7a-5ca2e89fedfe@42cc.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SpaceX launches the second of two next generation satellites for SiriusXM from SLC-40\, Cape Canaveral Space Force Station. The spacecraft will be delivered into a sub-synchronous geostationary transfer orbit and will replace XM-4 in geostationary orbit. The booster for this mission will land on an ASDS.
 DTEND:20210606T045600Z
 DTSTART:20210606T042600Z
 SUMMARY:SXM-8
-UID:884081a1-fe95-4417-9e06-1d7ffacce31d@8840.org
+UID:36d49db7-b1ee-4319-baf5-9036040280ef@36d4.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20211001T003000Z
+DTSTART:20211001T000000Z
+SUMMARY:NROL-85
+UID:caa64136-7b12-46ab-b638-351afb83a678@caa6.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20220101T003000Z
+DTSTART:20220101T000000Z
+SUMMARY:NROL-87
+UID:7fad4450-d45a-4379-a17e-f223c37c92e5@7fad.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20210818T003000Z
+DTSTART:20210818T000000Z
+SUMMARY:CRS-23
+UID:6a2699b3-f182-4ae6-b0cc-296040568b1c@6a26.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20210617T223000Z
+DTSTART:20210617T220000Z
+SUMMARY:GPS III SV05
+UID:c0ec75c7-17ad-4949-ac75-67f386ec2b79@c0ec.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20211001T003000Z
+DTSTART:20211001T000000Z
+SUMMARY:USSF-44
+UID:f562b907-0e66-4d84-ad21-89445d0a1287@f562.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Inspiration4 is the world’s first all-civilian mission to space. The mission will be commanded by Jared Isaacman\, the 37-year-old founder and Chief Executive Officer of Shift4 Payments and an accomplished pilot and adventurer. Inspiration4 will leave Earth from Kennedy Space Center’s historic Launch Complex 39A\, the embarkation point for Apollo and Space Shuttle missions\, and travel across a low earth orbit on a multi-day journey that will continually eclipse more than 90% of the earth’s population. Named in recognition of the four-person crew that will raise awareness and funds for St. Jude Children’s Research Hospital\, this milestone represents a new era for human spaceflight and exploration.
+DTEND:20210915T003000Z
+DTSTART:20210915T000000Z
+SUMMARY:Inspiration4
+UID:14eaf8c3-d44e-4192-b758-6fa68593f080@14ea.org
 END:VEVENT
 END:VCALENDAR
