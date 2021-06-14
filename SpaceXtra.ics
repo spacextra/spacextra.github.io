@@ -2,88 +2,89 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTEND:20211124T003000Z
-DTSTART:20211124T000000Z
-SUMMARY:DART
-UID:b1f20e68-a793-44fd-b007-7505566bb5ab@b1f2.org
+DTEND:20211031T003000Z
+DTSTART:20211031T000000Z
+SUMMARY:Crew-3
+UID:957ed87f-9ed2-4d67-aaae-2ddec60bd5a9@957e.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20211001T003000Z
-DTSTART:20211001T000000Z
-SUMMARY:NROL-85
-UID:822854a5-c53b-4f49-b2a2-20f58d904149@8228.org
+DTEND:20210624T193000Z
+DTSTART:20210624T190000Z
+SUMMARY:Transporter-2
+UID:cc61fbfe-f412-447b-aa43-25b9e6527d3f@cc61.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20211001T003000Z
 DTSTART:20211001T000000Z
 SUMMARY:Turksat 5B
-UID:e2107062-c6e9-4a80-bad0-995a30f39d58@e210.org
+UID:77350ec9-6350-481c-93f5-1758fb906341@7735.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20210701T003000Z
 DTSTART:20210701T000000Z
-SUMMARY:Starlink-29 (v1.0)
-UID:63dccac5-76bb-44d6-af09-5ba4fa8b6386@63dc.org
+SUMMARY:Starlink-30 (v1.0)
+UID:162e7cf9-3d1d-4154-9e2e-b51f79add1b2@162e.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20210901T003000Z
-DTSTART:20210901T000000Z
-SUMMARY:WorldView Legion 1-2
-UID:4f4a1516-af99-4581-8a69-075b8442431b@4f4a.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20220101T003000Z
-DTSTART:20220101T000000Z
-SUMMARY:NROL-87
-UID:71b93055-5fe3-439f-911c-681ed1a1a92a@71b9.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20210617T163900Z
-DTSTART:20210617T160900Z
-SUMMARY:GPS III SV05
-UID:63ac2d12-299d-41b1-a9da-96047087b358@63ac.org
+DTEND:20211001T003000Z
+DTSTART:20211001T000000Z
+SUMMARY:NROL-85
+UID:7474bd7b-ed5d-4463-8c71-6845b2730689@7474.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Inspiration4 is the world’s first all-civilian mission to space. The mission will be commanded by Jared Isaacman\, the 37-year-old founder and Chief Executive Officer of Shift4 Payments and an accomplished pilot and adventurer. Inspiration4 will leave Earth from Kennedy Space Center’s historic Launch Complex 39A\, the embarkation point for Apollo and Space Shuttle missions\, and travel across a low earth orbit on a multi-day journey that will continually eclipse more than 90% of the earth’s population. Named in recognition of the four-person crew that will raise awareness and funds for St. Jude Children’s Research Hospital\, this milestone represents a new era for human spaceflight and exploration.
 DTEND:20210915T003000Z
 DTSTART:20210915T000000Z
 SUMMARY:Inspiration4
-UID:9f122e87-9c29-4ff2-9a01-d16c9a423450@9f12.org
+UID:1d6e674f-c6a6-4825-b6e9-96d427246f4f@1d6e.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20211023T003000Z
-DTSTART:20211023T000000Z
-SUMMARY:Crew-3
-UID:8f587ae9-4421-4d46-9744-8d0c679b5d40@8f58.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20210624T193000Z
-DTSTART:20210624T190000Z
-SUMMARY:Transporter-2
-UID:d3202e95-4dba-4799-84ed-e869bb645ce8@d320.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20211001T003000Z
-DTSTART:20211001T000000Z
-SUMMARY:USSF-44
-UID:ce20a2ba-91a9-44d9-a13a-e781bc530d50@ce20.org
+DTEND:20211124T003000Z
+DTSTART:20211124T000000Z
+SUMMARY:DART
+UID:dd6c608e-8cfc-4d5e-9593-e0c9f21f96aa@dd6c.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20211001T003000Z
 DTSTART:20211001T000000Z
 SUMMARY:SARah 1
-UID:c7bd2950-7f28-46a4-95a4-cd0cca13e99d@c7bd.org
+UID:ab63a79e-cb84-4e9a-8adb-48ef77721444@ab63.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20220101T003000Z
+DTSTART:20220101T000000Z
+SUMMARY:NROL-87
+UID:a4a5b1af-1f8e-4d64-8729-a8cb3b6cb2ea@a4a5.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20211001T003000Z
+DTSTART:20211001T000000Z
+SUMMARY:USSF-44
+UID:ed375d14-f822-4382-88f9-87e3fa8835c0@ed37.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SpaceX's fourth GPS III launch will use the first stage from the previous GPS mission. This will be the first time a National Security Space Launch has flown on a flight proven booster. Falcon 9 will launch from SLC-40\, Cape Canaveral and the booster will land downrange on a drone ship. GPS III is the third generation of the U.S. Space Force's NAVSTAR Global Positioning System satellites\, developed by Lockheed Martin. The GPS III constellation will feature a cross-linked command and control architecture\, allowing the entire GPS constellation to be updated simultaneously from a single ground station. A new spot beam capability for enhanced military coverage and increased resistance to hostile jamming will be incorporated.
+DTEND:20210617T163900Z
+DTSTART:20210617T160900Z
+SUMMARY:GPS III SV05
+UID:8347a382-8f1b-42dc-b7f6-819d11637b96@8347.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20210701T003000Z
+DTSTART:20210701T000000Z
+SUMMARY:Starlink-29 (v1.0)
+UID:4740e442-36b2-4c15-86ab-9aa116ca2d2b@4740.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20210818T003000Z
 DTSTART:20210818T000000Z
 SUMMARY:CRS-23
-UID:30d976ef-45b3-4fc1-b4c0-caa84498ae20@30d9.org
+UID:c07ef0bb-a32b-4ce2-af27-fcd6db6df16e@c07e.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20210701T003000Z
-DTSTART:20210701T000000Z
-SUMMARY:Starlink-30 (v1.0)
-UID:3b7f2890-362f-4b1b-82b6-4d9538adf081@3b7f.org
+DTEND:20210901T003000Z
+DTSTART:20210901T000000Z
+SUMMARY:WorldView Legion 1-2
+UID:7b455a9e-6c2e-491f-a544-dc229c36a90c@7b45.org
 END:VEVENT
 END:VCALENDAR
