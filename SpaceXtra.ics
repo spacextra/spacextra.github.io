@@ -2,89 +2,89 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTEND:20220201T003000Z
-DTSTART:20220201T000000Z
-SUMMARY:NROL-87
-UID:02e2ae2b-4056-4e1c-9f0b-fcd5bac3bde9@02e2.org
+DTEND:20211001T003000Z
+DTSTART:20211001T000000Z
+SUMMARY:NROL-85
+UID:f86a7be4-2dc0-49b5-a885-20a961adc137@f86a.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20210818T003000Z
-DTSTART:20210818T000000Z
-SUMMARY:CRS-23
-UID:efde6682-e623-4e3d-b1a0-1b6b220c52c6@efde.org
+DTEND:20210624T193000Z
+DTSTART:20210624T190000Z
+SUMMARY:Transporter-2
+UID:e5533afe-8bbf-49c7-8d13-325412edb348@e553.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20211001T003000Z
+DTSTART:20211001T000000Z
+SUMMARY:Turksat 5B
+UID:fdeb0895-4c54-4f58-8065-bfae82f0b8f3@fdeb.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20210701T003000Z
 DTSTART:20210701T000000Z
 SUMMARY:Starlink-30 (v1.0)
-UID:4875d425-6124-40bb-91ff-2642f7b8c6cd@4875.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20211031T003000Z
-DTSTART:20211031T000000Z
-SUMMARY:Crew-3
-UID:c47fa9e4-e4f4-4636-b73d-e0dc5c97528f@c47f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SpaceX's fourth GPS III launch will use the first stage from the previous GPS mission. This will be the first time a National Security Space Launch has flown on a flight proven booster. Falcon 9 will launch from SLC-40\, Cape Canaveral and the booster will land downrange on a drone ship. GPS III is the third generation of the U.S. Space Force's NAVSTAR Global Positioning System satellites\, developed by Lockheed Martin. The GPS III constellation will feature a cross-linked command and control architecture\, allowing the entire GPS constellation to be updated simultaneously from a single ground station. A new spot beam capability for enhanced military coverage and increased resistance to hostile jamming will be incorporated.
-DTEND:20210617T163900Z
-DTSTART:20210617T160900Z
-SUMMARY:GPS III SV05
-UID:7908c526-5b53-494b-8be5-520ecfc9d3c7@7908.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20210901T003000Z
-DTSTART:20210901T000000Z
-SUMMARY:WorldView Legion 1-2
-UID:0d8c6a0e-17c9-4fa1-a698-642ad85fba1d@0d8c.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20211001T003000Z
-DTSTART:20211001T000000Z
-SUMMARY:SARah 1
-UID:326da791-a922-4a8a-b602-8f3ba99b3fe1@326d.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20211001T003000Z
-DTSTART:20211001T000000Z
-SUMMARY:USSF-44
-UID:327e1595-af1f-40bc-a759-4ea218310cd7@327e.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20211124T003000Z
-DTSTART:20211124T000000Z
-SUMMARY:DART
-UID:58090014-5cee-4ecb-92b6-7534dfebad9c@5809.org
+UID:01468ab4-2441-475d-9934-d2a5448c4806@0146.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Inspiration4 is the world’s first all-civilian mission to space. The mission will be commanded by Jared Isaacman\, the 37-year-old founder and Chief Executive Officer of Shift4 Payments and an accomplished pilot and adventurer. Inspiration4 will leave Earth from Kennedy Space Center’s historic Launch Complex 39A\, the embarkation point for Apollo and Space Shuttle missions\, and travel across a low earth orbit on a multi-day journey that will continually eclipse more than 90% of the earth’s population. Named in recognition of the four-person crew that will raise awareness and funds for St. Jude Children’s Research Hospital\, this milestone represents a new era for human spaceflight and exploration.
 DTEND:20210915T003000Z
 DTSTART:20210915T000000Z
 SUMMARY:Inspiration4
-UID:db5b7ab6-c892-4aec-8848-7dff2069804d@db5b.org
+UID:445403bd-140e-4c97-8928-102f0340523d@4454.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20211001T003000Z
-DTSTART:20211001T000000Z
-SUMMARY:NROL-85
-UID:43530610-1eea-4cfe-94ff-53be8868c20f@4353.org
+DTEND:20210901T003000Z
+DTSTART:20210901T000000Z
+SUMMARY:WorldView Legion 1-2
+UID:655126f6-68a8-4bd9-8e50-978a0d219c48@6551.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20210818T003000Z
+DTSTART:20210818T000000Z
+SUMMARY:CRS-23
+UID:e164020f-50fc-4d68-bf62-5ccaf96a460a@e164.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20211031T003000Z
+DTSTART:20211031T000000Z
+SUMMARY:Crew-3
+UID:f5cc6253-b617-4f5d-85b9-eb8241c50c70@f5cc.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20210701T003000Z
 DTSTART:20210701T000000Z
 SUMMARY:Starlink-29 (v1.0)
-UID:6f8035c7-00b7-4a74-8d97-18c1f19b03bd@6f80.org
+UID:7e9c0556-8cd1-42dd-a341-391b3f4f855d@7e9c.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20210624T193000Z
-DTSTART:20210624T190000Z
-SUMMARY:Transporter-2
-UID:4cf3a860-d353-467b-a0ea-ab98d748cdd1@4cf3.org
+DESCRIPTION:SpaceX's fourth GPS III launch will use the first stage from the previous GPS mission. This will be the first time a National Security Space Launch has flown on a flight proven booster. Falcon 9 will launch from SLC-40\, Cape Canaveral and the booster will land downrange on a drone ship. GPS III is the third generation of the U.S. Space Force's NAVSTAR Global Positioning System satellites\, developed by Lockheed Martin. The GPS III constellation will feature a cross-linked command and control architecture\, allowing the entire GPS constellation to be updated simultaneously from a single ground station. A new spot beam capability for enhanced military coverage and increased resistance to hostile jamming will be incorporated.
+DTEND:20210617T163900Z
+DTSTART:20210617T160900Z
+SUMMARY:GPS III SV05
+UID:26b8643d-4473-4f6f-9071-1c2268c204a0@26b8.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20220201T003000Z
+DTSTART:20220201T000000Z
+SUMMARY:NROL-87
+UID:bd07e936-a86f-4448-8bb3-aee243c78391@bd07.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20211001T003000Z
 DTSTART:20211001T000000Z
-SUMMARY:Turksat 5B
-UID:9b01f1db-12da-48aa-accb-509630d1a091@9b01.org
+SUMMARY:SARah 1
+UID:a99bbaf3-8e1e-4be8-9b3c-5d9c4bad7b72@a99b.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20211124T003000Z
+DTSTART:20211124T000000Z
+SUMMARY:DART
+UID:0a61ddd1-22df-4b33-a87d-1f2656900d80@0a61.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20211001T003000Z
+DTSTART:20211001T000000Z
+SUMMARY:USSF-44
+UID:90bfddba-d160-42df-bc38-c328b61b3063@90bf.org
 END:VEVENT
 END:VCALENDAR
