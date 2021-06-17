@@ -2,89 +2,82 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:SpaceX's fourth GPS III launch will use the first stage from the previous GPS mission. This will be the first time a National Security Space Launch has flown on a flight proven booster. Falcon 9 will launch from SLC-40\, Cape Canaveral and the booster will land downrange on a drone ship. GPS III is the third generation of the U.S. Space Force's NAVSTAR Global Positioning System satellites\, developed by Lockheed Martin. The GPS III constellation will feature a cross-linked command and control architecture\, allowing the entire GPS constellation to be updated simultaneously from a single ground station. A new spot beam capability for enhanced military coverage and increased resistance to hostile jamming will be incorporated.
-DTEND:20210617T163900Z
-DTSTART:20210617T160900Z
-SUMMARY:GPS III SV05
-UID:f73e9c53-8fd9-41fa-8fbf-57a4355cf799@f73e.org
+DTEND:20211001T003000Z
+DTSTART:20211001T000000Z
+SUMMARY:SARah 1
+UID:789e698e-8b19-4c43-8a94-fba5fcc8ea63@789e.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20210701T003000Z
 DTSTART:20210701T000000Z
 SUMMARY:Starlink-29 (v1.0)
-UID:fe576cac-d41d-4c3f-8618-498410c1e26c@fe57.org
+UID:d164e338-062b-45b2-9e88-6f52fb92d64d@d164.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20211001T003000Z
-DTSTART:20211001T000000Z
-SUMMARY:SARah 1
-UID:8fdfdcb3-10d6-4f9f-b004-d36f0b0ca3eb@8fdf.org
+DTEND:20210901T003000Z
+DTSTART:20210901T000000Z
+SUMMARY:WorldView Legion 1-2
+UID:7ee31f2d-6bd7-4534-9a0a-fa7ed748e703@7ee3.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20220201T003000Z
 DTSTART:20220201T000000Z
 SUMMARY:NROL-87
-UID:46af0585-00b7-4b4e-be51-cf2de8ab531a@46af.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20211001T003000Z
-DTSTART:20211001T000000Z
-SUMMARY:NROL-85
-UID:007db027-d957-4e4d-ad75-a40aa1e2b22d@007d.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20211001T003000Z
-DTSTART:20211001T000000Z
-SUMMARY:USSF-44
-UID:27622fc4-bcc0-4c85-8f72-d827d89acaad@2762.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20211031T003000Z
-DTSTART:20211031T000000Z
-SUMMARY:Crew-3
-UID:9d405b4b-b30e-4a09-9c35-4950dc2283f1@9d40.org
+UID:843a9420-9ecf-43ce-b831-a283085aee72@843a.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20210701T003000Z
 DTSTART:20210701T000000Z
 SUMMARY:Starlink-30 (v1.0)
-UID:66206922-395e-4283-a629-074a326fd26f@6620.org
+UID:af7c65a8-4bf3-45d2-8fb4-62d600e83a10@af7c.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20211124T003000Z
 DTSTART:20211124T000000Z
 SUMMARY:DART
-UID:ce01bfbe-6ecf-41d3-b2bf-1e20457a3063@ce01.org
+UID:09e4cad8-9308-49e6-91bf-1ae7ac2b0a73@09e4.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20210818T003000Z
 DTSTART:20210818T000000Z
 SUMMARY:CRS-23
-UID:9fcf1a71-38da-4493-9ad2-1206609d0ab8@9fcf.org
+UID:26e0d90b-624e-4e2c-aa30-83c3729a8663@26e0.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20211001T003000Z
+DTSTART:20211001T000000Z
+SUMMARY:USSF-44
+UID:146bfaa9-c83a-42f7-8786-f8a99e3d9543@146b.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20211001T003000Z
+DTSTART:20211001T000000Z
+SUMMARY:NROL-85
+UID:c075a5ef-2eee-4cc0-8f1b-2f70dff81ff4@c075.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20211001T003000Z
+DTSTART:20211001T000000Z
+SUMMARY:Turksat 5B
+UID:ed3734c4-cf28-4e41-b9b2-80c47856d5ab@ed37.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20211031T003000Z
+DTSTART:20211031T000000Z
+SUMMARY:Crew-3
+UID:dabafead-be7e-4977-80cf-7c0e799e6b2c@daba.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Inspiration4 is the world’s first all-civilian mission to space. The mission will be commanded by Jared Isaacman\, the 37-year-old founder and Chief Executive Officer of Shift4 Payments and an accomplished pilot and adventurer. Inspiration4 will leave Earth from Kennedy Space Center’s historic Launch Complex 39A\, the embarkation point for Apollo and Space Shuttle missions\, and travel across a low earth orbit on a multi-day journey that will continually eclipse more than 90% of the earth’s population. Named in recognition of the four-person crew that will raise awareness and funds for St. Jude Children’s Research Hospital\, this milestone represents a new era for human spaceflight and exploration.
 DTEND:20210915T003000Z
 DTSTART:20210915T000000Z
 SUMMARY:Inspiration4
-UID:9c456342-d1e1-4a88-b88f-28ebd3e47389@9c45.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20210901T003000Z
-DTSTART:20210901T000000Z
-SUMMARY:WorldView Legion 1-2
-UID:9cac9ac8-7722-4e41-beba-f63836dd20bc@9cac.org
+UID:4dbf4124-e8ee-496a-b949-9a20b0bf6e47@4dbf.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20210624T193000Z
 DTSTART:20210624T190000Z
 SUMMARY:Transporter-2
-UID:ab6058ce-9324-41d7-bf02-39349c6aeac2@ab60.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20211001T003000Z
-DTSTART:20211001T000000Z
-SUMMARY:Turksat 5B
-UID:773b472a-5e8a-4191-974c-9b795be4259b@773b.org
+UID:ba3ca801-54b8-4492-9e60-54b98bf172cf@ba3c.org
 END:VEVENT
 END:VCALENDAR
