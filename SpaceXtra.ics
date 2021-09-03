@@ -2,83 +2,77 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTEND:20211001T003000Z
-DTSTART:20211001T000000Z
-SUMMARY:USSF-44
-UID:c9a78074-8f6b-464b-a19e-176300e7b368@c9a7.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20211124T003000Z
-DTSTART:20211124T000000Z
-SUMMARY:DART
-UID:c7856949-8657-4d20-adf5-7e3329a11ae2@c785.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20210901T003000Z
-DTSTART:20210901T000000Z
-SUMMARY:Starlink-31 (v1.0)
-UID:2696a266-79d9-4075-90fc-1e2ccf492213@2696.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Inspiration4 is the world’s first all-civilian mission to space. The mission will be commanded by Jared Isaacman\, the 37-year-old founder and Chief Executive Officer of Shift4 Payments and an accomplished pilot and adventurer. Inspiration4 will leave Earth from Kennedy Space Center’s historic Launch Complex 39A\, the embarkation point for Apollo and Space Shuttle missions\, and travel across a low earth orbit on a multi-day journey that will continually eclipse more than 90% of the earth’s population. Named in recognition of the four-person crew that will raise awareness and funds for St. Jude Children’s Research Hospital\, this milestone represents a new era for human spaceflight and exploration.
-DTEND:20210915T003000Z
-DTSTART:20210915T000000Z
-SUMMARY:Inspiration4
-UID:71471323-464b-4663-8ea4-b84f00614341@7147.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20210901T003000Z
-DTSTART:20210901T000000Z
-SUMMARY:Starlink-30 (v1.0)
-UID:5fa73f5d-05b6-40ee-b17c-780e08cc10fa@5fa7.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20210901T003000Z
-DTSTART:20210901T000000Z
-SUMMARY:Polar Starlink-1
-UID:bea3c5c6-d6ed-4c17-9765-d181ff19d73b@bea3.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20211031T060000Z
-DTSTART:20211031T053000Z
-SUMMARY:Crew-3
-UID:a8fa12bb-82f5-4d03-acee-b1af1a4c9a9e@a8fa.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20211001T003000Z
-DTSTART:20211001T000000Z
-SUMMARY:SARah 1
-UID:d9a7ec77-3343-42c2-b087-cceeecb5d87a@d9a7.org
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20220101T003000Z
 DTSTART:20220101T000000Z
 SUMMARY:NROL-85
-UID:7f1389d1-c3e5-4da3-a6c6-93784f4ceffb@7f13.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20220201T003000Z
-DTSTART:20220201T000000Z
-SUMMARY:NROL-87
-UID:7d961cd4-ecb1-4dec-a6a3-76ddf645262a@7d96.org
+UID:d13c9560-4abe-4796-b3fb-63593097b2c4@d13c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:This mission launches the 29th batch of operational Starlink satellites\, which are version 1.0\, from LC-39A or SLC-40. It is the 30th Starlink launch overall. The satellites will be delivered to low Earth orbit and will spend a few weeks maneuvering to their operational altitude. The booster is expected to land on an ASDS.
 DTEND:20210901T003000Z
 DTSTART:20210901T000000Z
 SUMMARY:Starlink-29 (v1.0)
-UID:5d329ea6-7469-4d11-92ad-1cd400ce1692@5d32.org
+UID:4ca7718e-3541-465b-829c-bf88708717b9@4ca7.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20211001T003000Z
 DTSTART:20211001T000000Z
-SUMMARY:Turksat 5B
-UID:5812b987-61b8-45eb-b272-ae912e6f1f3e@5812.org
+SUMMARY:SARah 1
+UID:1ca3d68b-4e89-4c50-ba0e-782ad004ad10@1ca3.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20220201T003000Z
+DTSTART:20220201T000000Z
+SUMMARY:NROL-87
+UID:8bce90ce-edfc-4962-8d2d-2c9ca8227146@8bce.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20220301T003000Z
 DTSTART:20220301T000000Z
 SUMMARY:WorldView Legion 1-2
-UID:5d717f27-cc14-48c4-9bd5-f21e310a2ac7@5d71.org
+UID:a9e3af33-ac3d-40ac-93a8-f7ab5d116b0c@a9e3.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20210901T003000Z
+DTSTART:20210901T000000Z
+SUMMARY:Starlink-2.1
+UID:592c9c96-c201-46bc-982e-7e0c09442ee0@592c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20211001T003000Z
+DTSTART:20211001T000000Z
+SUMMARY:USSF-44
+UID:dc4184cd-3a30-468d-9422-4986b40327f1@dc41.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20211001T003000Z
+DTSTART:20211001T000000Z
+SUMMARY:Turksat 5B
+UID:ffcddc12-1450-4f75-abc6-c49e11e93fad@ffcd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Inspiration4 is the world’s first all-civilian mission to space. The mission will be commanded by Jared Isaacman\, the 37-year-old founder and Chief Executive Officer of Shift4 Payments and an accomplished pilot and adventurer. Inspiration4 will leave Earth from Kennedy Space Center’s historic Launch Complex 39A\, the embarkation point for Apollo and Space Shuttle missions\, and travel across a low earth orbit on a multi-day journey that will continually eclipse more than 90% of the earth’s population. Named in recognition of the four-person crew that will raise awareness and funds for St. Jude Children’s Research Hospital\, this milestone represents a new era for human spaceflight and exploration.
+DTEND:20210915T003000Z
+DTSTART:20210915T000000Z
+SUMMARY:Inspiration4
+UID:a21f9727-7568-4ec6-b0b6-836b9a22f709@a21f.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20211031T060000Z
+DTSTART:20211031T053000Z
+SUMMARY:Crew-3
+UID:9f2aa2f2-c468-42a3-a373-ea5a244fd5fc@9f2a.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20210901T003000Z
+DTSTART:20210901T000000Z
+SUMMARY:Starlink-30 (v1.0)
+UID:47862ce7-24bf-47be-87a9-3ca8ee482269@4786.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20211124T003000Z
+DTSTART:20211124T000000Z
+SUMMARY:DART
+UID:c14405b3-ad74-4148-a0fc-8c94d4ec676b@c144.org
 END:VEVENT
 END:VCALENDAR
