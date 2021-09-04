@@ -4,75 +4,75 @@ PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DTEND:20211001T003000Z
 DTSTART:20211001T000000Z
-SUMMARY:USSF-44
-UID:2c79b8d2-9b87-4879-9e6b-d542610c1288@2c79.org
+SUMMARY:Turksat 5B
+UID:c3d43e28-9b16-4843-a424-36237fc583f7@c3d4.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20210901T003000Z
-DTSTART:20210901T000000Z
-SUMMARY:Starlink-30 (v1.0)
-UID:c6ab5442-5346-494a-b2c9-e6c45eecfb2a@c6ab.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20210901T003000Z
-DTSTART:20210901T000000Z
-SUMMARY:Starlink-2.1
-UID:566e5c29-fa03-441d-9b43-ded3bf4e0629@566e.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20211001T003000Z
-DTSTART:20211001T000000Z
-SUMMARY:SARah 1
-UID:ebbd4379-9735-45ea-bd09-dfe25f9e4a4f@ebbd.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20211124T003000Z
-DTSTART:20211124T000000Z
-SUMMARY:DART
-UID:76b79c2e-5739-418a-a241-fdf3d5055c84@76b7.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20220201T003000Z
-DTSTART:20220201T000000Z
-SUMMARY:NROL-87
-UID:c09fee60-1e46-49b0-b72e-99c85e8af926@c09f.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20220101T003000Z
-DTSTART:20220101T000000Z
-SUMMARY:NROL-85
-UID:a16dd253-9172-4613-8e87-63571c6d6c4e@a16d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:This mission launches the 29th batch of operational Starlink satellites\, which are version 1.0\, from LC-39A or SLC-40. It is the 30th Starlink launch overall. The satellites will be delivered to low Earth orbit and will spend a few weeks maneuvering to their operational altitude. The booster is expected to land on an ASDS.
-DTEND:20210901T003000Z
-DTSTART:20210901T000000Z
-SUMMARY:Starlink-29 (v1.0)
-UID:8ec33f59-8ac0-4ed1-bd82-317a4a0b1033@8ec3.org
+DTEND:20220301T003000Z
+DTSTART:20220301T000000Z
+SUMMARY:WorldView Legion 1-2
+UID:42eaccde-b765-40d2-b3b2-94432424a7bb@42ea.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Inspiration4 is the world’s first all-civilian mission to space. The mission will be commanded by Jared Isaacman\, the 37-year-old founder and Chief Executive Officer of Shift4 Payments and an accomplished pilot and adventurer. Inspiration4 will leave Earth from Kennedy Space Center’s historic Launch Complex 39A\, the embarkation point for Apollo and Space Shuttle missions\, and travel across a low earth orbit on a multi-day journey that will continually eclipse more than 90% of the earth’s population. Named in recognition of the four-person crew that will raise awareness and funds for St. Jude Children’s Research Hospital\, this milestone represents a new era for human spaceflight and exploration.
 DTEND:20210915T003000Z
 DTSTART:20210915T000000Z
 SUMMARY:Inspiration4
-UID:48703652-7a1e-434b-8c75-4b399708fa01@4870.org
+UID:7ed1947d-3ead-4ca8-8cac-953fad231fff@7ed1.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20210901T003000Z
+DTSTART:20210901T000000Z
+SUMMARY:Starlink-2.1
+UID:ed0c7d89-a410-4ff3-a440-407fcab39bd9@ed0c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20211001T003000Z
+DTSTART:20211001T000000Z
+SUMMARY:SARah 1
+UID:087adbdb-7149-4520-84cb-4274d613e476@087a.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20211124T003000Z
+DTSTART:20211124T000000Z
+SUMMARY:DART
+UID:9484b770-0376-4502-935e-3cfce754e410@9484.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20220201T003000Z
+DTSTART:20220201T000000Z
+SUMMARY:NROL-87
+UID:e8c9cfda-0e57-49ef-a3f0-aea3ca4d6ca6@e8c9.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20220101T003000Z
+DTSTART:20220101T000000Z
+SUMMARY:NROL-85
+UID:5f13f710-0e5e-4275-af3a-a6ce5775fe3a@5f13.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20210901T003000Z
+DTSTART:20210901T000000Z
+SUMMARY:Starlink-30 (v1.0)
+UID:e1a53511-8427-4705-a900-6af9080a5ab3@e1a5.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20211001T003000Z
+DTSTART:20211001T000000Z
+SUMMARY:USSF-44
+UID:cbe5396a-598e-4af5-bd68-5a99e72efcd6@cbe5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:This mission launches the 29th batch of operational Starlink satellites\, which are version 1.0\, from LC-39A or SLC-40. It is the 30th Starlink launch overall. The satellites will be delivered to low Earth orbit and will spend a few weeks maneuvering to their operational altitude. The booster is expected to land on an ASDS.
+DTEND:20210901T003000Z
+DTSTART:20210901T000000Z
+SUMMARY:Starlink-29 (v1.0)
+UID:faa1ac4e-6a9f-4ab7-923f-2fd96aa07fa7@faa1.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20211031T060000Z
 DTSTART:20211031T053000Z
 SUMMARY:Crew-3
-UID:49642101-f7b9-4369-8f6f-2419e43d8344@4964.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20211001T003000Z
-DTSTART:20211001T000000Z
-SUMMARY:Turksat 5B
-UID:672bc253-9b85-46c9-87e7-a8539961f254@672b.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20220301T003000Z
-DTSTART:20220301T000000Z
-SUMMARY:WorldView Legion 1-2
-UID:c734a8d2-ea71-4d6d-9e1a-2e085a76823c@c734.org
+UID:c6ab2611-3930-448c-9234-d8fc0a74d041@c6ab.org
 END:VEVENT
 END:VCALENDAR
