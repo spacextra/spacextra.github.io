@@ -2,51 +2,54 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTEND:20211201T003000Z
-DTSTART:20211201T000000Z
-SUMMARY:Starlink 2-2 (v1.5)
-UID:1eef8af9-86b1-4b78-a6cc-35bcbfede005@1eef.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20211217T101620Z
-DTSTART:20211217T094620Z
-SUMMARY:Starlink 4-4 (v1.5)
-UID:3a8c2ad7-e0d8-42a4-b2bb-0dc081a0c2e2@3a8c.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20220101T003000Z
-DTSTART:20220101T000000Z
-SUMMARY:Starlink 4-2 (v1.5)
-UID:d445c316-181c-4d85-a93b-1985384bd38b@d445.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20210101T003000Z
-DTSTART:20210101T000000Z
-SUMMARY:CSG-2
-UID:5c7766b2-3f07-4ed2-8e56-fe53afd8c674@5c77.org
-END:VEVENT
-BEGIN:VEVENT
+DESCRIPTION:SpaceX's 24th ISS resupply mission on behalf of NASA\, this mission brings essential supplies to the International Space Station using the cargo variant of SpaceX's Dragon 2 spacecraft. Cargo includes several science experiments. The booster for this mission is expected to land on an ASDS. The mission will be complete with return and recovery of the Dragon capsule and down cargo.
 DTEND:20211221T103600Z
 DTSTART:20211221T100600Z
 SUMMARY:CRS-24
-UID:ac18a08d-490c-4d2e-b5fa-0f4039567797@ac18.org
+UID:245bbb51-9aa8-4e69-b0f0-404bdd7061f9@245b.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20220101T003000Z
-DTSTART:20220101T000000Z
-SUMMARY:SARah 1
-UID:55f9dc26-a390-4ef6-b59c-5b72525b4dd5@55f9.org
+DESCRIPTION:The mission consists in launching 52 Starlink v1.5 satellites to Shell number 4 at 53.2°. This is unusual as the mission is launching from Vandenberg as these missions usually launch from the East Coast.
+DTEND:20211218T095440Z
+DTSTART:20211218T092440Z
+SUMMARY:Starlink 4-4 (v1.5)
+UID:22b95fd6-54a1-47b9-8efe-bf86fb724825@22b9.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:The Türksat 5B communication satellite\, which its construction work continues at Airbus Defense and Space's facilities in Toulouse\, France\, will soon be sent to the Cape Canaveral Space Launch Station located in Florida\, United States. The satellite will be launched into space onboard the Falcon 9 rocket following pre-launch preparations. With an estimated in-orbit lifetime of 30 years and the aim of securing Turkey’s orbital and frequency rights\, Türksat 5B will be launched into an orbital slot at 42 degrees East. With 12 kW power\, Türksat 5B will provide TV broadcasting and data communication services over a wide coverage area that reaches the entire Middle East\, the Persian Gulf\, the Red Sea\, the Mediterranean\, North Africa\, East Africa\, South Africa and Nigeria. Apart from that\, the satellite will also provide customized services for airlines and commercial ship operators around the world thanks to the fact that it operates in Ka-Band.
 DTEND:20211219T042800Z
 DTSTART:20211219T035800Z
 SUMMARY:Türksat 5B
-UID:d88b7e80-cd73-479e-91a2-570c4e0dcd9e@d88b.org
+UID:68a5b04e-edc6-4088-a960-a8144288cbbe@68a5.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20220202T003000Z
 DTSTART:20220202T000000Z
 SUMMARY:NROL-87
-UID:5244d80e-40f6-4236-8951-fc5f03b757b1@5244.org
+UID:6cd12a4d-547e-4f44-aa82-55576f975e9b@6cd1.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20220101T003000Z
+DTSTART:20220101T000000Z
+SUMMARY:SARah 1
+UID:ab79e5f8-0353-4c81-afb9-c767e6988e49@ab79.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20220101T003000Z
+DTSTART:20220101T000000Z
+SUMMARY:Starlink 4-2 (v1.5)
+UID:3a979375-2109-48d8-aac0-4b3b90bc5ada@3a97.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20211201T003000Z
+DTSTART:20211201T000000Z
+SUMMARY:Starlink 2-2 (v1.5)
+UID:73325a80-f76d-4803-8264-9b5377c3cc85@7332.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20210101T003000Z
+DTSTART:20210101T000000Z
+SUMMARY:CSG-2
+UID:64f7b447-cfa5-4d3b-8ddb-d241f4628d58@64f7.org
 END:VEVENT
 END:VCALENDAR
