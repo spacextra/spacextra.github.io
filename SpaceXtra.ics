@@ -2,47 +2,40 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTEND:20220101T003000Z
-DTSTART:20220101T000000Z
-SUMMARY:Starlink 4-2 (v1.5)
-UID:597d7174-7931-487c-af57-5ab94607e44b@597d.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20211201T003000Z
-DTSTART:20211201T000000Z
-SUMMARY:Starlink 2-2 (v1.5)
-UID:fa3a92cb-aad4-4579-82a4-8e8e2dee3665@fa3a.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20220202T003000Z
-DTSTART:20220202T000000Z
-SUMMARY:NROL-87
-UID:dc0a93f9-4b4e-4951-a601-6475c935bf82@dc0a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:The Türksat 5B communication satellite\, which its construction work continues at Airbus Defense and Space's facilities in Toulouse\, France\, will soon be sent to the Cape Canaveral Space Launch Station located in Florida\, United States. The satellite will be launched into space onboard the Falcon 9 rocket following pre-launch preparations. With an estimated in-orbit lifetime of 30 years and the aim of securing Turkey’s orbital and frequency rights\, Türksat 5B will be launched into an orbital slot at 42 degrees East. With 12 kW power\, Türksat 5B will provide TV broadcasting and data communication services over a wide coverage area that reaches the entire Middle East\, the Persian Gulf\, the Red Sea\, the Mediterranean\, North Africa\, East Africa\, South Africa and Nigeria. Apart from that\, the satellite will also provide customized services for airlines and commercial ship operators around the world thanks to the fact that it operates in Ka-Band.
-DTEND:20211219T042800Z
-DTSTART:20211219T035800Z
-SUMMARY:Türksat 5B
-UID:c2947807-3d3d-44af-bf4f-bf1e800297f7@c294.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20210101T003000Z
-DTSTART:20210101T000000Z
-SUMMARY:CSG-2
-UID:f04951ea-6a66-4ace-8805-ee812933f531@f049.org
+DTEND:20220110T003000Z
+DTSTART:20220110T000000Z
+SUMMARY:Transporter-3
+UID:a021c808-9a2a-460f-a771-78d9ae7fed6b@a021.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SpaceX's 24th ISS resupply mission on behalf of NASA\, this mission brings essential supplies to the International Space Station using the cargo variant of SpaceX's Dragon 2 spacecraft. Cargo includes several science experiments. The booster for this mission is expected to land on an ASDS. The mission will be complete with return and recovery of the Dragon capsule and down cargo.
 DTEND:20211221T103600Z
 DTSTART:20211221T100600Z
 SUMMARY:CRS-24
-UID:e56be7b3-8fae-448b-b061-7c28cdee19be@e56b.org
+UID:5cacdfb6-2aa3-4c03-8f29-977e15aaa988@5cac.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20210101T003000Z
+DTSTART:20210101T000000Z
+SUMMARY:CSG-2
+UID:6bd1edad-d08d-4768-aec4-faf2fe9b9f4e@6bd1.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20220101T003000Z
+DTSTART:20220101T000000Z
+SUMMARY:Starlink 4-2 (v1.5)
+UID:a3cce867-465b-42fa-ae11-901f02a04a02@a3cc.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20220202T003000Z
+DTSTART:20220202T000000Z
+SUMMARY:NROL-87
+UID:0a04f855-6082-4d9a-9ca4-5b54ff5ef1a4@0a04.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20220101T003000Z
 DTSTART:20220101T000000Z
 SUMMARY:SARah 1
-UID:4b7e10a7-781e-423c-875c-46b1c6e4eb0a@4b7e.org
+UID:d686e2d2-929e-440d-a609-8fe33865a861@d686.org
 END:VEVENT
 END:VCALENDAR
