@@ -2,41 +2,41 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTEND:20220202T170700Z
-DTSTART:20220202T163700Z
-SUMMARY:NROL-87
-UID:11c573bc-683b-45cf-950e-d5c298e83371@11c5.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20220201T003000Z
-DTSTART:20220201T000000Z
-SUMMARY:IM-1 Nova-C
-UID:e56d3b01-7290-436e-88d2-b36c27bfb5c3@e56d.org
+DESCRIPTION:Falcon 9 launches to sun-synchronous polar orbit from Florida as part of CSG-2 Mission. The mission lifts off from SLC-40\, Cape Canaveral on a southward azimuth and performs a dogleg maneuver. The booster for this mission is expected to return to LZ-1 based on FCC communications filings
+DTEND:20220127T234112Z
+DTSTART:20220127T231112Z
+SUMMARY:CSG-2
+UID:f66f48a7-5c44-499d-88d8-2b396d0a24a1@f66f.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20220129T203000Z
 DTSTART:20220129T200000Z
 SUMMARY:Starlink 4-7 (v1.5)
-UID:be251a8a-4963-4d4c-b87c-9b3ad64f0579@be25.org
+UID:c2038b67-eff0-482d-9994-62a1c624f1c7@c203.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20220202T170700Z
+DTSTART:20220202T163700Z
+SUMMARY:NROL-87
+UID:e782c50e-676e-44b4-957d-9a18648bd746@e782.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20220401T003000Z
+DTSTART:20220401T000000Z
+SUMMARY:SARah 1
+UID:61367d55-6c42-40dd-ab94-42023f39d09a@6136.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20220201T003000Z
+DTSTART:20220201T000000Z
+SUMMARY:IM-1 Nova-C
+UID:0925d139-dc4d-44fd-8525-d76b8295ba20@0925.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Axiom Mission 1 (or Ax-1) is a planned SpaceX Crew Dragon mission to the International Space Station (ISS)\, operated by SpaceX on behalf of Axiom Space. The flight will launch no earlier than 31 March 2022 and send four people to the ISS for an eight-day stay
 DTEND:20220331T003000Z
 DTSTART:20220331T000000Z
 SUMMARY:Ax-1
-UID:06b8b631-e9a7-43ee-b95c-24c6f3087ab0@06b8.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20220401T003000Z
-DTSTART:20220401T000000Z
-SUMMARY:SARah 1
-UID:3cee15d6-59d7-4c68-886b-1d569b1b0916@3cee.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Falcon 9 launches to sun-synchronous polar orbit from Florida as part of CSG-2 Mission. The mission lifts off from SLC-40\, Cape Canaveral on a southward azimuth and performs a dogleg maneuver. The booster for this mission is expected to return to LZ-1 based on FCC communications filings
-DTEND:20220127T234112Z
-DTSTART:20220127T231112Z
-SUMMARY:CSG-2
-UID:5da115f1-d2b3-426c-b1b2-f71b0c81fdf8@5da1.org
+UID:cad6f25b-d3bf-46a1-8f5f-749f3f1a2f1d@cad6.org
 END:VEVENT
 END:VCALENDAR
