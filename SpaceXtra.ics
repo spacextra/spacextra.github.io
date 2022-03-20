@@ -2,22 +2,16 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTEND:20220319T035400Z
-DTSTART:20220319T032400Z
-SUMMARY:Starlink 4-12 (v1.5)
-UID:07f0686a-a6b1-4a87-8704-053944548641@07f0.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Axiom Mission 1 (or Ax-1) is a planned SpaceX Crew Dragon mission to the International Space Station (ISS)\, operated by SpaceX on behalf of Axiom Space. The flight will launch no earlier than 31 March 2022 and send four people to the ISS for an eight-day stay
 DTEND:20220403T174300Z
 DTSTART:20220403T171300Z
 SUMMARY:Ax-1
-UID:f2cd4fa6-9f08-459b-b22c-c3681247171e@f2cd.org
+UID:fe24a76e-8243-4ccf-8725-92a989c0ab95@fe24.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20220401T003000Z
 DTSTART:20220401T000000Z
 SUMMARY:SARah 1
-UID:7a7d9ecb-1845-4e0c-aa90-7a58d691191f@7a7d.org
+UID:4e7a0d8d-651f-4247-ac1f-0b4e5a40488f@4e7a.org
 END:VEVENT
 END:VCALENDAR
