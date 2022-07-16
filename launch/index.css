@@ -1,0 +1,44 @@
+@font-face {
+  font-family: "San Francisco";
+  font-weight: 400;
+  src: url("https://applesocial.s3.amazonaws.com/assets/styles/fonts/sanfrancisco/sanfranciscodisplay-regular-webfont.woff");
+}
+
+*, html {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'SF Pro Text',-apple-system,BlinkMacSystemFont,Roboto,'Segoe UI',Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';
+  background: #e6e6e6;
+}
+
+#parent {
+  width: 50vw;
+  font-size: 1.1em;
+  padding: 0 1em 0 1em;
+  background: #ffffff;
+  border-radius: 1em;
+}
+
+#parent .section .title {
+  font-weight: 700;
+  font-size: 1em;
+  padding-top: 0.3em;
+}
+
+#parent .section .content {
+  padding-bottom: 0.5em;
+}
+
+#parent .section hr {
+  border: 1px solid #e6e6e6;
+  border-radius: 1em;
+}
+
+#parent .section img {
+  width: 50vw;
+  padding: 0;
+}
+/*# sourceMappingURL=index.css.map */
